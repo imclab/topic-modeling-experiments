@@ -8,6 +8,9 @@ train LDA model on taboo corpus with 1 or more topics per taboo category
 add topic probabilities to TFIDF/etc. features for classifier
 
 
+get list of current publishers
+create google cse to retrieve documents for taboo term queries from only those domains
+
 """
 __author__ = 'gavin'
 import logging
