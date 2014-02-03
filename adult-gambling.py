@@ -6,7 +6,8 @@ add topic probabilities to unigram features
 Taboo;
 train LDA model on taboo corpus with 1 or more topics per taboo category
 add topic probabilities to TFIDF/etc. features for classifier
-
+NOTE: current script uses LSI
+http://radimrehurek.com/gensim/models/ldamodel.html
 
 get list of current publishers
 create google cse to retrieve documents for taboo term queries from only those domains
